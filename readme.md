@@ -1,6 +1,6 @@
 # `extras_require` bug minimal testcase
 
-Run `make` to reproduce the issue.
+Run `make` to reproduce the issue detailed [here](https://github.com/jazzband/pip-tools/issues/761).
 
 ## Expected behaviour
 
